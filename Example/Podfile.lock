@@ -1,0 +1,16 @@
+PODS:
+  - WDCategory (0.1.0)
+
+DEPENDENCIES:
+  - WDCategory (from `../`)
+
+EXTERNAL SOURCES:
+  WDCategory:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WDCategory: 174b112416d86fc6aaa71097c6e1ae54347f7a47
+
+PODFILE CHECKSUM: 002e197c154abc9c2b1432db03b7eba14d502570
+
+COCOAPODS: 1.11.3

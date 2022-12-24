@@ -1,0 +1,6 @@
+framework module WDCategory {
+  umbrella header "WDCategory-umbrella.h"
+
+  export *
+  module * { export * }
+}
